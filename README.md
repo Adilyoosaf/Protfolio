@@ -19,7 +19,7 @@
     }
 
     body {
-      background-color: var(--background-color);
+      background-color: var(--background-color) !important; /* Ensure background color is applied */
       color: var(--text-color);
       font-family: Arial, sans-serif;
       margin: 0;
@@ -158,7 +158,8 @@
 
   <section>
     <h2>📸 Visuals & GIFs</h2>
-    
+    <p>Here's a little about me through visuals:</p>
+    <img src="https://your-image-link.com" alt="Adhil Yoosaf" width="300">
     <p><img src="https://media.giphy.com/media/l0HlK7k8JHzquceqg/giphy.gif" alt="Coding GIF"></p>
   </section>
 
