@@ -63,11 +63,7 @@
   </section>
 
   <section>
-    <h2>📸 Visuals & GIFs</h2>
-    <p>Here's a little about me through visuals:</p>
-    <img src="https://via.placeholder.com/300" alt="Adhil Yoosaf" width="300">
-    <p><img src="https://media.giphy.com/media/TdfbwRiKk5lYc/giphy.gif" alt="Coding GIF"></p>
-  </section>
+
 
   <footer>
     <h2>📫 How to Reach Me</h2>
