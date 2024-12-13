@@ -11,7 +11,6 @@
       --primary-color: #3498db; /* Blue for links and buttons */
       --secondary-color: #2ecc71; /* Green for highlights */
       --accent-color: #f39c12; /* Yellow for attention */
-      --background-color: #ecf0f1; /* Light background */
       --text-color: #2c3e50; /* Dark text color */
       --header-bg-color: #34495e; /* Darker header background */
       --button-bg-color: #e74c3c; /* Red for buttons */
@@ -19,7 +18,6 @@
     }
 
     body {
-      background-color: var(--background-color) !important; /* Ensure background color is applied */
       color: var(--text-color);
       font-family: Arial, sans-serif;
       margin: 0;
@@ -159,20 +157,20 @@
   <section>
     <h2>📸 Visuals & GIFs</h2>
     <p>Here's a little about me through visuals:</p>
-    <img src="https://your-image-link.com" alt="Adhil Yoosaf" width="300">
-    <p><img src="https://media.giphy.com/media/l0HlK7k8JHzquceqg/giphy.gif" alt="Coding GIF"></p>
+    <img src="https://via.placeholder.com/300" alt="Adhil Yoosaf" width="300">
+    <p><img src="https://media.giphy.com/media/TdfbwRiKk5lYc/giphy.gif" alt="Coding GIF"></p>
   </section>
 
   <footer>
     <h2>📫 How to Reach Me</h2>
     <p><strong>Email:</strong> <a href="mailto:Adilyoosaf7@gmail.com" style="color: var(--primary-color);">Adilyoosaf7@gmail.com</a></p>
     <div class="social-links">
-      <a href="https://www.linkedin.com/in/adhil-yoosaf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://twitter.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+      <a href="https://www.linkedin.com/in/adhil-yoosaf-9b2889293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     </div>
   </footer>
 
 </body>
 
 </html>
+
 
