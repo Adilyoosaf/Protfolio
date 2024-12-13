@@ -1,176 +1,155 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adhil Yoosaf GitHub Portfolio</title>
-  <style>
-    /* Define color variables */
-    :root {
-      --primary-color: #3498db; /* Blue for links and buttons */
-      --secondary-color: #2ecc71; /* Green for highlights */
-      --accent-color: #f39c12; /* Yellow for attention */
-      --text-color: #2c3e50; /* Dark text color */
-      --header-bg-color: #34495e; /* Darker header background */
-      --button-bg-color: #e74c3c; /* Red for buttons */
-      --button-hover-bg-color: #c0392b; /* Darker red on hover */
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Adhil Yoosaf - GitHub Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
 
-    body {
-      color: var(--text-color);
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
+        header {
+            text-align: center;
+            padding: 50px 20px;
+            background: #333;
+        }
 
-    h1,
-    h2 {
-      color: var(--primary-color);
-    }
+        h1, h2 {
+            color: #fff;
+        }
 
-    h3 {
-      color: var(--secondary-color);
-    }
+        h3 {
+            color: #ddd;
+        }
 
-    a {
-      color: var(--primary-color);
-      text-decoration: none;
-    }
+        .intro {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #444;
+            border-radius: 8px;
+        }
 
-    a:hover {
-      color: var(--accent-color);
-    }
+        .intro p {
+            font-size: 18px;
+            line-height: 1.8;
+        }
 
-    header {
-      background-color: var(--header-bg-color);
-      padding: 20px;
-      text-align: center;
-    }
+        .section {
+            padding: 30px 20px;
+            text-align: center;
+            background: #555;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
 
-    section {
-      margin: 20px 0;
-    }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-    .button {
-      background-color: var(--button-bg-color);
-      color: white;
-      padding: 10px 20px;
-      border: none;
-      cursor: pointer;
-      font-size: 16px;
-      border-radius: 5px;
-    }
+        .section li {
+            font-size: 18px;
+            padding: 8px 0;
+        }
 
-    .button:hover {
-      background-color: var(--button-hover-bg-color);
-    }
+        .social-icons {
+            text-align: center;
+            margin-top: 30px;
+        }
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+        .social-icons a {
+            font-size: 24px;
+            margin: 0 15px;
+            color: #fff;
+            text-decoration: none;
+        }
 
-    ul li {
-      margin: 10px 0;
-    }
-
-    footer {
-      text-align: center;
-      margin-top: 50px;
-      color: #7f8c8d;
-    }
-
-    .social-links img {
-      width: 30px;
-      margin: 0 10px;
-    }
-
-    .social-links {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-  </style>
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
 </head>
-
 <body>
 
-  <header>
-    <h1>🌟 Adhil Yoosaf GitHub Portfolio</h1>
-  </header>
+    <header>
+        <h1>🌟 Adhil Yoosaf GitHub Portfolio</h1>
+        <p>Welcome to my GitHub portfolio. This repository reflects my journey in computer science, highlighting my interests, skills, and projects as I build my future in the technology industry.</p>
+    </header>
 
-  <section>
-    <h2>👋 About Me</h2>
-    <p>Welcome to my GitHub portfolio! This repository reflects my journey in computer science, highlighting my interests, skills, and projects as I build my future in the technology industry.</p>
-  </section>
-
-  <section>
-    <h2>👀 About Me</h2>
-    <ul>
-      <li><strong>Location:</strong> Originally from India, now studying in the UK</li>
-      <li><strong>Course:</strong> First-year BSc in Computer Science</li>
-      <li><strong>Gender:</strong> 🧑 Male</li>
-    </ul>
-    <p>**Fun Facts**: I love gaming and cooking new meals!</p>
-  </section>
-
-  <section>
-    <h2>🛠️ What I’m Doing</h2>
-    <ul>
-      <li>**Professionalism, Employability, and Enterprise**</li>
-      <li>**Programming**</li>
-      <li>**Information Management, Assurance, and Security**</li>
-    </ul>
-    <p>I’m currently in my first year of BSc Computer Science, diving into core areas of technology. These modules are helping me develop technical skills, problem-solving abilities, and professional attributes essential for the tech industry.</p>
-  </section>
-
-  <section>
-    <h2>🧠 Skills</h2>
-    <ul>
-      <li><strong>Programming:</strong> C++, Python (basic knowledge), problem-solving techniques</li>
-      <li><strong>Cybersecurity:</strong> Basics of cryptography, information assurance</li>
-      <li><strong>Communication:</strong> Strong written and verbal communication skills</li>
-      <li><strong>Teamwork:</strong> Experienced in group projects</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>🔨 Recent Projects</h2>
-    <ul>
-      <li><strong>Decryption Techniques:</strong> Explored and implemented decryption methods like the <a href="https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher" target="_blank">Vigenère cipher</a> and <a href="https://en.wikipedia.org/wiki/Caesar_cipher" target="_blank">Caesar cipher</a> to unlock encoded messages.</li>
-      <li><strong>Programming Challenges:</strong> Solved multiple programming problems as part of my coursework.</li>
-      <li><strong>Group Project on Education:</strong> Worked on a group project about education, creating a PowerPoint presentation and video as a team.</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>🌱 Hobbies</h2>
-    <ul>
-      <li>Reading 📚</li>
-      <li>Traveling ✈️</li>
-      <li>Music 🎶</li>
-      <li>Sports 🏀</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📸 Visuals & GIFs</h2>
-    <p>Here's a little about me through visuals:</p>
-    <img src="https://via.placeholder.com/300" alt="Adhil Yoosaf" width="300">
-    <p><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Coding GIF"></p>
-  </section>
-
-  <footer>
-    <h2>📫 How to Reach Me</h2>
-    <p><strong>Email:</strong> <a href="mailto:Adilyoosaf7@gmail.com" style="color: var(--primary-color);">Adilyoosaf7@gmail.com</a></p>
-    <div class="social-links">
-      <a href="https://www.linkedin.com/in/adhil-yoosaf-9b2889293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <div class="intro">
+        <h2>👋 Hi, I’m Adhil Yoosaf</h2>
+        <p>Originally from India, now studying in the UK (moved in September 2024).</p>
+        <p>Currently a first-year BSc Computer Science student at the University of South Wales.</p>
+        <p>Gender: 🧑 Male</p>
     </div>
-  </footer>
+
+    <div class="section">
+        <h3>🛠️ What I’m Doing</h3>
+        <p>I’m diving into core areas of technology in my first year of Computer Science. Some of my modules include:</p>
+        <ul>
+            <li>Professionalism, Employability, and Enterprise</li>
+            <li>Programming</li>
+            <li>Information Management, Assurance, and Security</li>
+        </ul>
+        <p>These modules are helping me develop technical skills, problem-solving abilities, and professional attributes essential for the tech industry. I’m also working on multiple projects that challenge me to apply what I’m learning in real-world scenarios.</p>
+    </div>
+
+    <div class="section">
+        <h3>🧠 Skills</h3>
+        <ul>
+            <li>Programming: C++, Python (basic knowledge), problem-solving techniques</li>
+            <li>Cybersecurity: Basics of cryptography, information assurance</li>
+            <li>Communication: Strong written and verbal communication skills</li>
+            <li>Teamwork: Experienced in group projects</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>🔨 Recent Projects</h3>
+        <p>Here are some of the exciting projects I’ve worked on recently:</p>
+        <ul>
+            <li><b>Decryption Techniques</b> - Explored and implemented decryption methods like the Vigenère cipher and Caesar cipher to unlock encoded messages. <a href="https://github.com/AdhilYoosaf/Decryption-Projects">View Project</a></li>
+            <li><b>Programming Challenges</b> - Solved multiple programming problems as part of my coursework, focusing on algorithms and debugging. <a href="https://github.com/AdhilYoosaf/Programming-Challenges">View Project</a></li>
+            <li><b>Group Project on Education</b> - Worked on a group project about education, creating a PowerPoint presentation and video as a team. <a href="https://github.com/AdhilYoosaf/Group-Project-Education">View Project</a></li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>🌱 Hobbies</h3>
+        <ul>
+            <li>Reading</li>
+            <li>Traveling</li>
+            <li>Music</li>
+            <li>Sports</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>📫 How to Reach Me</h3>
+        <p>Email: <a href="mailto:Adilyoosaf7@gmail.com">Adilyoosaf7@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/adhil-yoosaf-9b2889293">Adhil Yoosaf LinkedIn</a></p>
+    </div>
+
+    <div class="social-icons">
+        <a href="https://www.linkedin.com/in/adhil-yoosaf-9b2889293" target="_blank">LinkedIn</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Adhil Yoosaf. All rights reserved.</p>
+    </footer>
 
 </body>
-
 </html>
 
 
