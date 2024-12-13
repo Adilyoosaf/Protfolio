@@ -1,77 +1,47 @@
-  <header>
-    <h1>🌟 Adhil Yoosaf GitHub Portfolio</h1>
-  </header>
+🌟 Adhil Yoosaf Github Protfolio
 
-  <section>
-    <h2>👋 About Me</h2>
-    <p>Welcome to my GitHub portfolio! This repository reflects my journey in computer science, highlighting my interests, skills, and projects as I build my future in the technology industry.</p>
-  </section>
+Welcome to my GitHub portfolio. My computer science path is reflected in this repository, which highlights my interests, skills, and projects as I build my future in the technology industry.  
 
-  <section>
-    <h2>👀 About Me</h2>
-    <ul>
-      <li><strong>Location:</strong> Originally from India, now studying in the UK</li>
-      <li><strong>Course:</strong> First-year BSc in Computer Science</li>
-      <li><strong>Gender:</strong> 🧑 Male</li>
-    </ul>
-    <p>**Fun Facts**: I love gaming and cooking new meals!</p>
-  </section>
-
-  <section>
-    <h2>🛠️ What I’m Doing</h2>
-    <ul>
-      <li>**Professionalism, Employability, and Enterprise**</li>
-      <li>**Programming**</li>
-      <li>**Information Management, Assurance, and Security**</li>
-    </ul>
-    <p>I’m currently in my first year of BSc Computer Science, diving into core areas of technology. These modules are helping me develop technical skills, problem-solving abilities, and professional attributes essential for the tech industry.</p>
-  </section>
-
-  <section>
-    <h2>🧠 Skills</h2>
-    <ul>
-      <li><strong>Programming:</strong> C++, Python (basic knowledge), problem-solving techniques</li>
-      <li><strong>Cybersecurity:</strong> Basics of cryptography, information assurance</li>
-      <li><strong>Communication:</strong> Strong written and verbal communication skills</li>
-      <li><strong>Teamwork:</strong> Experienced in group projects</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>🔨 Recent Projects</h2>
-    <ul>
-      <li><strong>Decryption Techniques:</strong> Explored and implemented decryption methods like the <a href="https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher" target="_blank">Vigenère cipher</a> and <a href="https://en.wikipedia.org/wiki/Caesar_cipher" target="_blank">Caesar cipher</a> to unlock encoded messages.</li>
-      <li><strong>Programming Challenges:</strong> Solved multiple programming problems as part of my coursework.</li>
-      <li><strong>Group Project on Education:</strong> Worked on a group project about education, creating a PowerPoint presentation and video as a team.</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>🌱 Hobbies</h2>
-    <ul>
-      <li>Reading 📚</li>
-      <li>Traveling ✈️</li>
-      <li>Music 🎶</li>
-      <li>Sports 🏀</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📸 GIFs</h2>
+👋 Hi, I’m Adhil Yoosaf
+  
+👀 About ME:
+- Originally from India now studying in the UK, moved here on september 2024
+- Doing first year Bsc in Computer science
+- 🧑 Male
+- 🎮 Fun facts: Gaming- Often play games to relief my stress
+- 🥘 Fun facts: Cooking- Try to cook new meals to be creative
     
-    <p><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Coding GIF"></p>
-  </section>
+🛠 What I’m Doing:
+- I am currently in my first year of *BSc Computer Science*, diving into core areas of 
+technology. My current modules include:  
+ - Professionalism, Employability, and Enterprise  
+ - Programming
+ - Information Management, Assurance, and Security  
+ - These modules are helping me to develop technical skills, problem-solving abilities, and professional attributes essential for the tech industry. I’m also working on multiple projects that challenge me to apply what I’m learning in real-world scenarios.  
 
-  <footer>
-    <h2>📫 How to Reach Me</h2>
-    <p><strong>Email:</strong> <a href="mailto:Adilyoosaf7@gmail.com" style="color: var(--primary-color);">Adilyoosaf7@gmail.com</a></p>
-    <div class="social-links">
-      <a href="https://www.linkedin.com/in/adhil-yoosaf-9b2889293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    </div>
-  </footer>
+🧠 Skills:
+- Programming: C++, Python (basic knowledge), problem-solving techniques  
+- Cybersecurity: Basic of cryptography, information assurance 
+- Communiction: Strong written and verbal communication skills  
+- Teamwork: Group project 
 
-</body>
+🔨*Recent Projects:*
+- Here are some of the exciting projects I’ve worked on recently:  
+  1. Decryption Techniques  
+   - Explored and implemented decryption methods like the Vigenère cipher and Caesar cipher to unlock encoded messages.  
+  2. Programming Challenges 
+   - Solved multiple programming problems as part of my coursework, focusing on algorithms and debugging.  
+  3. Group Project on Education
+   - Done a group project about education creating a Powerpoint presentation video as a team.
 
-</html>
+- I am currently working on the assignments for my Programming, Entity-Relationsship Diagram (ERD) and Project Proposal.  
 
+🌱 Hobbies: 
+ - Reading   
+ - Traveling  
+ - Music
+ - Sports
+
+📫 How to reach me
+ - Email: Adilyoosaf7@gmail.com
 
