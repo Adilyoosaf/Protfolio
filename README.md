@@ -4,14 +4,14 @@ Welcome to my GitHub portfolio. My computer science path is reflected in this re
 
 👋 Hi, I’m Adhil Yoosaf
   
-👀**About ME:**
+👀 About ME:
 - Originally from India now studying in the UK, moved here on september 2024
 - Doing first year Bsc in Computer science
 - 🧑 Male
 - 🎮 Fun facts: Gaming- Often play games to relief my stress
 - 🥘 Fun facts: Cooking- Try to cook new meals to be creative
     
-🛠️**What I’m Doing:**
+🛠️ What I’m Doing:
 - I am currently in my first year of **BSc Computer Science**, diving into core areas of 
 technology. My current modules include:  
  - Professionalism, Employability, and Enterprise  
@@ -19,13 +19,13 @@ technology. My current modules include:
  - Information Management, Assurance, and Security  
  - These modules are helping me to develop technical skills, problem-solving abilities, and professional attributes essential for the tech industry. I’m also working on multiple projects that challenge me to apply what I’m learning in real-world scenarios.  
 
-**🧠 Skills:**
+🧠 Skills:
 - Programming: C++, Python (basic knowledge), problem-solving techniques  
 - Cybersecurity: Basic of cryptography, information assurance 
 - Communiction: Strong written and verbal communication skills  
 - Teamwork: Group project 
 
-🔨**Recent Projects:**
+🔨 Recent Projects:
 - Here are some of the exciting projects I’ve worked on recently:  
   1. Decryption Techniques  
    - Explored and implemented decryption methods like the Vigenère cipher and Caesar cipher to unlock encoded messages.  
@@ -36,12 +36,12 @@ technology. My current modules include:
 
 - I am currently working on the assignments for my Programming, Entity-Relationsship Diagram (ERD) and Project Proposal.  
 
-🌱**Hobbies:** 
+🌱 Hobbies:
  - Reading   
  - Traveling  
  - Music
  - Sports
 
-📫**How to reach me**
+📫 How to reach me
  - Email: Adilyoosaf7@gmail.com
   
